@@ -1,0 +1,18 @@
+Added Component: Designator=D?(LED/7SEG/0.56)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-8
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component D1 Led
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component D2 Led
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component D3 Led
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component D? SM420563N
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R1 R
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R2 R
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R3 R
+Added Member To Class: ClassName=SCH_2-way_Traffic Member=Component R6 R
